@@ -2,7 +2,6 @@ const customStyle = {
   card: {
     border: "5px solid #f89808",
     borderRadius: "10px",
-    width: "100%",
     padding: "20px",
     margin: "10px 0",
     backgroundColor: "#f5f6f7",
