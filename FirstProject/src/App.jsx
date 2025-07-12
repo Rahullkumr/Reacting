@@ -5,6 +5,7 @@ import { Footer } from "./day02/ReusableFooter";
 import { Card } from "./day02/ReusableProfileCard";
 import { MyApp } from "./day02/ReusableProfileCard";
 import Practice from "./Practice";
+import SlideFlowLandingPage from "./SlideFlow/SlideFlowLandingPage";
 
 function App() {
   return (
@@ -21,7 +22,9 @@ function App() {
     // </div>
 
     // day03
-    <Practice />
+    // <Practice />
+    <SlideFlowLandingPage/>
+
   );
 }
 
