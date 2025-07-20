@@ -6,6 +6,8 @@ import { Card } from "./day02/ReusableProfileCard";
 import { MyApp } from "./day02/ReusableProfileCard";
 import Practice from "./Practice";
 import SlideFlowLandingPage from "./SlideFlow/SlideFlowLandingPage";
+import Deleteme from "./Deleteme";
+import BgChanger from "./bgChanger/BgChanger";
 
 function App() {
   return (
@@ -23,8 +25,9 @@ function App() {
 
     // day03
     // <Practice />
-    <SlideFlowLandingPage/>
-
+    // <SlideFlowLandingPage/>
+    // <Deleteme />
+    <BgChanger />
   );
 }
 
