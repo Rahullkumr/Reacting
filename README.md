@@ -5,9 +5,8 @@ ReactJS mini projects collection.
 ## Technologies
 
 - [pnpm]() + [vite](https://vite.dev/) + [React](https://react.dev/)
-- [TailwindCSS 4](https://tailwindcss.com/blog/tailwindcss-v4) (always use official website, don't rely on chatGPT)
+- [TailwindCSS 4](https://tailwindcss.com/docs/installation/using-vite) (always use official website, don't rely on chatGPT)
 - [React Router v7](https://reactrouter.com/start/declarative/installation) (declarative mode)
-- [GSAP](https://gsap.com/) for animations
 
 ## Projects Table
 
